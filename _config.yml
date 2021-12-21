@@ -2,9 +2,13 @@ title: zacharychristian # your name (or website title) here
 logo: "/images/picture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Structures to Statistics to Machine Learning. 
+  <br>
   Second description 
-  <br><br>
+  <br>
+  Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
