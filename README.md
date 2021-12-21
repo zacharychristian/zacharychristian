@@ -1,3 +1,38 @@
+# Math Masters Student
+## Specializing in Statistics and Machine Learning
+'Dedicated to Constant Improvement.'
+
+## Education:
+
+### Bachelors in Business and Economic Analytics
+- Minored in Mathematics
+- Econometrics
+
+## Skills:
+
+### Python:
+
+- Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
+- Multiple Data Science projects completed using Python
+- Data Structures and Algorithms.
+- 2 years experience
+
+### Java: 
+
+- 2 years experience
+- Experience with Data Strucutures and Algorithms
+
+### SQL:
+
+- 1 year experience
+- Knowledge of MySQL and SQLServer
+- 
+
+
+
+
+
+
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
