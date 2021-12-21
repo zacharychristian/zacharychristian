@@ -4,14 +4,14 @@ _Dedicated to Constant Improvement_
 
 ## Education:
 
-### Bachelors in Business and Economic Analytics
+### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
 - Econometrics
 - Object Oriented Programming
 - Data Driven Analytics
 - Data Structures and Algorithms
 
-### Masters in Mathematics
+### Masters in Mathematics  2021 - 2024
 - Specializing in Statistics and Machine Learning
 - Supervised learning - Linear and Logistic Regressions, Decision Trees, Random Forest, and K Nearest Neighbor.
 - Unsupervised learning - KMeans
