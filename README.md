@@ -2,6 +2,8 @@
 ## Specializing in Statistics and Machine Learning
 _Dedicated to Constant Improvement_
 
+Linkedin: www.linkedin.com/in/zack-christiansen-922705196
+
 ## Education:
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
