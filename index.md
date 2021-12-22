@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Small Businesses](/sample_page)
+[Project 1 Loans and Businesses](/sample_page)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
