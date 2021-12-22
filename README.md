@@ -1,4 +1,4 @@
-#Zack Christiansen
+# Zack Christiansen
 # Math Masters Student
 ## Specializing in Statistics and Machine Learning
 _Dedicated to Constant Improvement_
