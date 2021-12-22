@@ -2,7 +2,7 @@
 
 ---
 
-[Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
+# [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
