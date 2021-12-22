@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Small Businesses](/sample_page)
-<img src="images/small business.jfif?raw=true"/>
+<img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
