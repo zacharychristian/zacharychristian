@@ -8,6 +8,7 @@ _Dedicated to Constant Improvement_
 - Object Oriented Programming
 - Data Driven Analytics
 - Data Structures and Algorithms
+- SQL 
 
 ### Masters in Mathematics  2021 - 2023
 - Specializing in Statistics and Machine Learning
