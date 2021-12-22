@@ -24,7 +24,7 @@ _Dedicated to Constant Improvement_
 ---
 
 # [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
-<img src="images/benefits_of_business_loans.png?raw=true"/>(https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
+<img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
 # [Classifying News Articles](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
