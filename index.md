@@ -11,7 +11,7 @@ _Dedicated to Constant Improvement_
 - Data Structures and Algorithms
 - SQL 
 
-### Masters in Mathematics  2021 - 2023
+### Masters in Mathematics - In Progress - 2021 - 2023
 - Specializing in Statistics and Machine Learning
 - Supervised learning - Linear and Logistic Regressions, Decision Trees, Random Forest, and K Nearest Neighbor.
 - Unsupervised learning - KMeans
