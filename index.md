@@ -3,6 +3,11 @@
 ## Specializing in Statistics and Machine Learning
 _Dedicated to Constant Improvement_
 
+### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Structures to Statistics to Machine Learning. 
+
+Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
+
+
 ### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
 - Econometrics
