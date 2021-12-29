@@ -2,10 +2,6 @@ title: zacharychristian # your name (or website title) here
 logo: "/images/picture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Structures to Statistics to Machine Learning. 
-  <br>
-  Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
-  <br>
   <a href="https://www.linkedin.com/in/zack-christiansen-922705196/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
