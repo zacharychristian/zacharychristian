@@ -1,7 +1,5 @@
 title: zacharychristian # your name (or website title) here
 logo: "/images/picture.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  <a href="https://www.linkedin.com/in/zack-christiansen-922705196/">View My LinkedIn Profile</a> 
+
   
 theme: jekyll-theme-minimal
