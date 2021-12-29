@@ -7,6 +7,7 @@ _Dedicated to Constant Improvement_
 
 Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
 
+### [View my LinkedIn Profile:](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
