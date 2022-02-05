@@ -38,6 +38,7 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 - Experience with Data Strucutures and Algorithms
 
 ## Education:
+
 ### Masters in Mathematics  2021 - 2023
 - Specializing in Statistics and Machine Learning
 - Supervised learning - Linear and Logistic Regressions, Decision Trees, Random Forest, and K Nearest Neighbor.
@@ -45,6 +46,7 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 - Statistics - Probability Density Functions, Common distributions such as: Standard Normal, Normal, Exponential, Binomial, Chi Square, Hypergeometric, Negative Binomial, Poisson, Gamma, Beta, and F distribution. 
 - Familiar with many parts of distributions such as compution of mean, variance, intervals, moment generating functions, maximum likelihood estimators, etc.
 - Experience with natural language processing, computer vision, high level data visualization, neural networks, reinforcement learning, general purpose machine learning, etc.
+
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
