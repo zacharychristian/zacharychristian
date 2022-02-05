@@ -10,7 +10,7 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 
 ### Machine Learning:
 - Experience with natural language processing, computer vision, high level data visualization, neural networks, reinforcement learning, general purpose machine learning, etc.
-- Linear regression, logistic regression, Lasso regression, Ridge regression, Elastic net, decision trees, random forest, KNN (K nearest neighbor), KMeans, PCA (Principal component analysis), neural networks, SVD ( Singular value decomposition), Naive Bayes, Regularization
+- Linear regression, logistic regression, Lasso regression, Ridge regression, Elastic net, decision trees, random forest, KNN (K nearest neighbor), KMeans, PCA (Principal component analysis), neural networks, SVD ( Singular value decomposition), Naive Bayes, Regularization, t-tests
 - Various types of optimization such as gradient descent, exhaustive search, boosting, bagging, etc.
 - Visualization techniques such as t-SNE, many kinds of graphs
 - Utilizing pipelines for more generalizable and readable code
