@@ -39,14 +39,15 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 ### Java: 
 - 2 years experience
 - Experience with Data Strucutures and Algorithms
-- 
+
+## Education
 ### Masters in Mathematics - In Progress - 2021 - 2023
 - Specializing in Statistics and Machine Learning
 - Supervised learning - Linear and Logistic Regressions, Decision Trees, Random Forest, and K Nearest Neighbor.
 - Unsupervised learning - KMeans
 - Statistics - Probability Density Functions, Common distributions such as: Standard Normal, Normal, Exponential, Binomial, Chi Square, Hypergeometric, Negative Binomial, Poisson, Gamma, Beta, and F distribution. 
 - Familiar with many parts of distributions such as compution of mean, variance, intervals, moment generating functions, maximum likelihood estimators, etc.
-- 
+
 ### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
 - Econometrics
