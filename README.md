@@ -36,7 +36,7 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 ### Java: 
 - 2 years experience
 - Experience with Data Strucutures and Algorithms
-- 
+
 ## Education:
 ### Masters in Mathematics  2021 - 2023
 - Specializing in Statistics and Machine Learning
