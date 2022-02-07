@@ -13,9 +13,9 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 
 ### Machine Learning:
 - Experience with natural language processing, computer vision, high level data visualization, neural networks, reinforcement learning, general purpose machine learning, etc.
-- Linear regression, logistic regression, decision trees, random forest, KNN ( K nearest neighbor), KMeans, PCA (Principal component analysis), neural networks, SVD ( Singular value decomposition), Naive Bayes
+- Linear regression, logistic regression, decision trees, random forest, KNN ( K nearest neighbor), KMeans, PCA (Principal component analysis), neural networks, SVD ( Singular value decomposition), Naive Bayes, t-SNE (t distributed stochastic neighbor embedding)
 - Various types of optimization such as gradient descent, exhaustive search, boosting, bagging, etc.
-- Visualization techniques such as t-SNE, many kinds of graphs
+- Visualization techniques 
 - Utilizing pipelines for more generalizable and readable code
 - Manipulating probability density functions
 - Random sampling from probability density functions
