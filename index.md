@@ -33,6 +33,12 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Familiarity with Pipelines
 - Multiple projects that required aggregating and preparing data from diverse datasets
 
+### Statistics:
+- Knowledge of all common distributions such as: Standard Normal, Normal, Exponential, Binomial, Chi Square, Hypergeometric, Negative Binomial, Poisson, Gamma, Beta, F distribution, etc.
+- Expected Values, Variance, CDF (Cumulative Density Function), PDFs (Probability Density Function), MGFs (Moment Generating Function), MLEs (Maximum Likelihood Estimator)
+- Converting one distribution into another through various distribution specific relationships.
+- Random sampling through methods such as Acceptance Rejection Method, Inverse Transform Method, and Transform Method.
+
 ### R:
 - Cleaning, analyzing, and visualizing data
 - Sampling from distributions
