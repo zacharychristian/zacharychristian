@@ -9,6 +9,20 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/zack-christiansen-922705196/)
 
+# Projects
+
+---
+
+# [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
+<img src="images/benefits_of_business_loans.png?raw=true"/>
+
+---
+# [Classifying News Articles](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
+<img src="images/news.png?raw=true"/>
+
+---
+
+
 ## Skills:
 
 ### Machine Learning:
@@ -67,15 +81,3 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Data Structures and Algorithms
 - SQL 
 
-# Projects
-
----
-
-# [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
-<img src="images/benefits_of_business_loans.png?raw=true"/>
-
----
-# [Classifying News Articles](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
-<img src="images/news.png?raw=true"/>
-
----
