@@ -12,6 +12,10 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # Projects
 
 ---
+# [Hierarchical Clustering Implementation](https://github.com/zacharychristian/Hierarchical-Clustering-with-Max-Linkage-Implementation/blob/main/Hierarchical%20Clustering%20with%20Max%20Linkage%20Implementation.ipynb)
+<img src="images/hierarchicalcluster.jpg?raw=true"/>
+
+---
 
 # [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
