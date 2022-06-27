@@ -3,11 +3,11 @@
 ## Specializing in Statistics and Machine Learning
 _Dedicated to Constant Improvement_
 
+### [View my LinkedIn Profile](https://www.linkedin.com/in/zack-christiansen-922705196/)
+
 ### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Structures to Statistics to Machine Learning. 
 
 Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
-
-### [View my LinkedIn Profile](https://www.linkedin.com/in/zack-christiansen-922705196/)
 
 # Projects
 
