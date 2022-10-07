@@ -12,7 +12,7 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # Projects
 
 ---
-# [Hierarchical Clustering Implementation](https://github.com/zacharychristian/Hierarchical-Clustering-with-Max-Linkage-Implementation/blob/main/Hierarchical%20Clustering%20with%20Max%20Linkage%20Implementation.ipynb)
+# [Dissimilarities of Movie Descriptions]([https://github.com/zacharychristian/Hierarchical-Clustering-with-Max-Linkage-Implementation/blob/main/Hierarchical%20Clustering%20with%20Max%20Linkage%20Implementation.ipynb](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Web%20Scraping%20(Complete).ipynb))
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 ---
