@@ -45,7 +45,7 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
 
 ### Python:
-- 2 years experience
+- 3 years experience
 - Multiple implementations of various machine learning algorithms
 - Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
 - Experience with implementing a machine learning algorithm to dataset, optimizing, and presenting results in readable graph.
@@ -56,6 +56,7 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 
 ### Statistics:
 - Mostly Frequentist, with some Bayesian
+- Hypothesis (A/B) Testing
 - Usage of Monte Carlo Simulations, Bootstrapping, Jackknife resampling, etc.
 - Knowledge of the different kinds of statistical bias
 - Knowledge of type 1 and type 2 errors
@@ -64,8 +65,19 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Converting one distribution into another through various distribution specific relationships.
 - Random sampling through methods such as Acceptance Rejection Method, Inverse Transform Method, and Transform Method.
 
+### Linear Algebra:
+- Fundamental knowledge of Linear Algebra
+- Knowledge of Eigenvectors, Eigenvalues, upper triangular matrices, etc.
+- Invertible and Isomorphic vector spaces
+- Inner product spaces such as dot product, norms (Euclidean distance), etc.
+- Singular Value Decomposition (SVD)
+- Polar Decomposition
+- Jordan Canonical form
+- Trace and Determinant
+
 ### R:
 - Cleaning, analyzing, and visualizing data
+- Hypothesis (A/B) Testing
 - Sampling from distributions
 - Monte Carlo simulations
 - Bootstrapping and Jackknife resampling
