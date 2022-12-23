@@ -12,7 +12,7 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # Projects
 
 ---
-# [Dissimilarities of Movie Descriptions](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Web%20Scraping%20(Complete).ipynb)
+# [Dissimilarities of Movie Descriptions](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 ---
