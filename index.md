@@ -12,6 +12,7 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # Projects
 
 ---
+
 # [Dissimilarities of Movie Descriptions(Python)](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
@@ -25,10 +26,18 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # [Covid-19 Data Analysis(SQL)](https://github.com/zacharychristian/AnalyzingCovidData/tree/main)
 <img src = "images/covid.png"/>
 
+---
+
+# [Coffee Analysis(PowerBI)](https://github.com/zacharychristian/Coffee-PowerBI-/tree/main)
+<img src = "images/coffee-bean-icon-9.png"/>
+
+---
+
 # [Loans and Businesses(Python)](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
+
 # [Classifying News Articles(Python)](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
 <img src="images/news.png?raw=true"/>
 
