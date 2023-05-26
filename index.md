@@ -12,16 +12,21 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 # Projects
 
 ---
-# [Dissimilarities of Movie Descriptions](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
+# [Dissimilarities of Movie Descriptions(Python)](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 ---
 
-# [Loans and Businesses](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
+# [NetTron Price Quote(Excel)](https://github.com/zacharychristian/NetTron-Excel)
+<img src = "images/1589710-200.png"/>
+
+---
+
+# [Loans and Businesses(Python)](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
 
 ---
-# [Classifying News Articles](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
+# [Classifying News Articles(Python)](https://github.com/zacharychristian/NewsArticles/blob/main/Classifying%20News%20Articles.ipynb)
 <img src="images/news.png?raw=true"/>
 
 ---
@@ -45,7 +50,6 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
 
 ### Python:
-- 3 years experience
 - Multiple implementations of various machine learning algorithms
 - Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
 - Experience with implementing a machine learning algorithm to dataset, optimizing, and presenting results in readable graph.
@@ -83,12 +87,10 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 - Bootstrapping and Jackknife resampling
 
 ### SQL:
-- 1 year experience
 - Intermediate to advanced skills
 - Knowledge of MySQL and SQLServer
 
 ### Java: 
-- 2 years experience
 - Experience with Data Strucutures and Algorithms
 
 ## Education
