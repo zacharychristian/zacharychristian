@@ -22,6 +22,9 @@ Experience with SQL, Java, GitHub, Python and Python libraries such as Pandas, N
 
 ---
 
+# [Covid-19 Data Analysis(SQL)](https://github.com/zacharychristian/AnalyzingCovidData/tree/main)
+<img src = "images/covid.png"/>
+
 # [Loans and Businesses(Python)](https://github.com/zacharychristian/BusinessLoans/blob/main/Small%20Businesses.ipynb)
 <img src="images/benefits_of_business_loans.png?raw=true"/>
 
