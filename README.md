@@ -21,7 +21,6 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 - Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
 - Multiple Data Science projects completed using Python
 - Data Structures and Algorithms.
-- 2 years experience
 - Familiarity with Pipelines
 - Multiple projects that required aggregating and preparing data from diverse datasets
 
@@ -30,11 +29,11 @@ Linkedin: www.linkedin.com/in/zack-christiansen-922705196
 - Sampling from distributions
 
 ### SQL:
-- 1 year experience
 - Knowledge of MySQL and SQLServer
+- Joins, Aggregate functions, Creating views, Converting data types, Temporary tables, etc.
+- DML(Data manipulation language), DQL(Data query language), DDL(Data definition language), TCL(Transaction control language), DCL(Data control language)
 
 ### Java: 
-- 2 years experience
 - Experience with Data Strucutures and Algorithms
 
 ## Education:
