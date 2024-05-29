@@ -5,9 +5,9 @@ _Dedicated to Constant Improvement_
 
 ### [View my LinkedIn Profile](https://www.linkedin.com/in/zack-christiansen-922705196/)
 
-### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Structures to Statistics to Machine Learning. 
+### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Visualization to Data Structures to Machine Learning. 
 
-Experience with PowerBI, SQL, Github, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
+Experience with PowerBI, SQL, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
 
 # Projects
 
@@ -21,6 +21,21 @@ Experience with PowerBI, SQL, Github, Python and Python libraries such as Pandas
 
 ## Skills:
 
+### Data Visualization
+- Communicating data stories
+- Visualization through graphs
+- Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
+
+### SQL:
+- Intermediate to advanced skills
+- Knowledge of MySQL and SQLServer
+
+### Python:
+- Multiple projects that required aggregating and preparing data from diverse datasets
+- Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
+- Multiple Data Science projects completed using Python
+- Data Structures and Algorithms.
+
 ### Machine Learning:
 - Experience with Natural Language Processing, High Level Data Visualization, Neural Networks, Optimization, etc.
 - Supervised Learning: Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression, Decision Trees, Random Forest, KNN ( K Nearest Neighbor), Neural Network, Naive Bayes, etc.
@@ -29,22 +44,6 @@ Experience with PowerBI, SQL, Github, Python and Python libraries such as Pandas
 - Visualization techniques 
 - Utilizing pipelines for more generalizable and readable code
 - Random sampling from probability density functions (Monte Carlo Simulations)
-
-### Data Visualization
-- Communicating data stories
-- Visualization through graphs
-- Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
-
-### Python:
-- Multiple projects that required aggregating and preparing data from diverse datasets
-- Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
-- Experience with implementing a machine learning algorithm to dataset, optimizing, and presenting results in readable graph.
-- Multiple Data Science projects completed using Python
-- Data Structures and Algorithms.
-
-### SQL:
-- Intermediate to advanced skills
-- Knowledge of MySQL and SQLServer
 
 ## Education
 ### Masters in Mathematics - 2021 - 2023
