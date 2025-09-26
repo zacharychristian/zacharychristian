@@ -11,12 +11,13 @@ Detail-oriented Data Analyst transitioning into Data Engineering, with a strong 
 # Projects
 
 ---
+# [Apache Spark Polish Procurement Data Pipeline](https://github.com/zacharychristian/Apache-Spark-Polish-Procurement/tree/main).
+<img src = "images/system_diagram.png?raw=true"/>
 
 # [Dissimilarities of Movie Descriptions(Python)](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
-# [Apache Spark Polish Procurement Data Pipeline](https://github.com/zacharychristian/Apache-Spark-Polish-Procurement/tree/main).
-<img src = "images/system_diagram.png?raw=true"/>
+
 
 
 ---
