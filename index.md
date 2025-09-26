@@ -68,13 +68,13 @@ Libraries & Tools:
 
 ## Education
 ### Masters in Mathematics - 2021 - 2023
-- Specializing in Statistics and Machine Learning
-- Advanced knowledge of Linear Algebra (Matrices)
-- Supervised learning 
-- Unsupervised learning 
-- Statistics - Probability Density Functions, Common distributions, Monte Carlo Simulations, Bootstrapping, Jackknife resampling, etc.
-- Familiar with many parts of distributions such as compution of mean, variance, intervals, moment generating functions, maximum likelihood estimators, etc.
-- Experience with estimating expected value, variance, etc. from probability density function utilizing Monte Carlo Simulation, Bootstrap, Jackknife, etc.
+- Focused on applied mathematics, statistics, and algorithmic problem solving.
+
+- Extensive experience coding in Python, R, and MATLAB for numerical analysis, data visualization, and statistical modeling.
+
+- Built custom simulations, optimization algorithms, and data pipelines as part of academic research and coursework.
+
+- Gained strong foundations in linear algebra, probability theory, and discrete math — core concepts behind data science and data engineering systems.
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
 - Minored in Mathematics
