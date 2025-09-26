@@ -16,7 +16,7 @@ Detail-oriented Data Analyst transitioning into Data Engineering, with a strong 
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 # [Apache Spark Polish Procurement Data Pipeline](https://github.com/zacharychristian/Apache-Spark-Polish-Procurement/tree/main).
-<img src = "images/system_architecture.png?raw=true"/>
+<img src = "images/system_diagram.png?raw=true"/>
 
 
 ---
