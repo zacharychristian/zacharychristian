@@ -29,32 +29,42 @@ Detail-oriented Data Analyst transitioning into Data Engineering, with a strong 
 - Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
 
 ### SQL:
-Advanced Querying: Complex joins, window functions, CTEs, subqueries, pivot/unpivot, and aggregation techniques for in-depth data analysis and transformation.
+- Advanced Querying: Complex joins, window functions, CTEs, subqueries, pivot/unpivot, and aggregation techniques for in-depth data analysis and transformation.
 
-Performance Optimization: Proficient in query tuning, indexing strategies, execution plans, and optimizing large-scale data queries.
+- Performance Optimization: Proficient in query tuning, indexing strategies, execution plans, and optimizing large-scale data queries.
 
-Data Modeling: Experience designing normalized and denormalized schemas (star/snowflake), creating ER diagrams, and understanding relational data structures.
+- Data Modeling: Experience designing normalized and denormalized schemas (star/snowflake), creating ER diagrams, and understanding relational data structures.
 
-ETL Development: Writing and maintaining SQL-based ETL/ELT processes for transforming and loading data into warehouses (e.g., Snowflake, BigQuery, Redshift).
+- ETL Development: Writing and maintaining SQL-based ETL/ELT processes for transforming and loading data into warehouses (e.g., Snowflake, BigQuery, Redshift).
 
-SQL in Analytics & Engineering: Used SQL for both analytical dashboards and backend pipeline logic—bridging data insights with engineering best practices.
+- SQL in Analytics & Engineering: Used SQL for both analytical dashboards and backend pipeline logic—bridging data insights with engineering best practices.
 
-Version Control & CI/CD: Experience managing SQL scripts with Git and integrating into CI/CD pipelines for automated deployments.
+- Version Control & CI/CD: Experience managing SQL scripts with Git and integrating into CI/CD pipelines for automated deployments.
 
 ### Python:
-- Multiple projects that required aggregating and preparing data from diverse datasets
-- Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
-- Multiple Data Science projects completed using Python
-- Data Structures and Algorithms.
+- Python for Data Engineering: Proficient in writing clean, modular, and scalable Python code for data extraction, transformation, and loading (ETL/ELT), automation scripts, and API integrations.
 
-### Machine Learning:
-- Experience with Natural Language Processing, High Level Data Visualization, Neural Networks, Optimization, etc.
-- Supervised Learning: Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression, Decision Trees, Random Forest, KNN ( K Nearest Neighbor), Neural Network, Naive Bayes, etc.
-- Unsupervised learning: Hierarchical clustering, KMeans, Gaussian Mixture model, DBScan, PCA (Principal Component Analysis), SVD (Singular Value Decomposition),  t-SNE (T Distributed Stochastic Neighbor Embedding), etc.
-- Various types of optimization such as Gradient Descent, Expectation Maximization, Exhaustive Search, Boosting, Bagging, etc.
-- Visualization techniques 
-- Utilizing pipelines for more generalizable and readable code
-- Random sampling from probability density functions (Monte Carlo Simulations)
+- PySpark: Experience with distributed data processing using PySpark for large-scale data transformations, performance tuning, and working with DataFrames and RDDs in a production context.
+
+- Apache Airflow: Designed and scheduled DAGs for orchestrating complex ETL pipelines; comfortable with task dependencies, retries, and custom operators.
+
+- Docker: Containerized Python applications and workflows for reproducibility and deployment across environments. Familiar with Dockerfiles, multi-stage builds, and container networking.
+
+- Kubernetes (K8s): Understanding of container orchestration, managing Docker containers using Kubernetes for scalable and resilient data workflows.
+
+- Data Pipelines & Workflow Automation: Built batch and streaming pipelines using Python with tools like Airflow, Spark, and custom schedulers.
+
+- Testing & Code Quality: Experience with unit testing (pytest), logging, and monitoring for data pipelines to ensure robustness and observability.
+
+Libraries & Tools:
+
+- Core Libraries: pandas, NumPy, SQLAlchemy, requests, datetime, os, pathlib
+
+- Data Engineering Tools: PySpark, Airflow, dbt, FastAPI (optional if you’ve used it), Prefect (if applicable)
+
+- DevOps Tools: Docker, Kubernetes, Git, CI/CD tools (GitHub Actions, GitLab CI, etc.)
+
+
 
 ## Education
 ### Masters in Mathematics - 2021 - 2023
