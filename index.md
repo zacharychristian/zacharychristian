@@ -7,8 +7,7 @@ _Dedicated to Constant Improvement_
 
 ### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Visualization to Data Structures to Machine Learning. 
 
-Experience with PowerBI, SQL, Python and Python libraries such as Pandas, NumPy, Scikit-learn, Matplotlib,etc. 
-
+Detail-oriented Data Analyst transitioning into Data Engineering, with a strong foundation in data analysis, SQL, and Python, and hands-on experience building and optimizing data pipelines. Adept at transforming business requirements into scalable data solutions and leveraging analytical skills to ensure data integrity and usability. Experienced in working with relational databases, ETL processes, and cloud-based tools (e.g., AWS, GCP). Passionate about automating data workflows, improving data infrastructure, and enabling data-driven decision-making across teams. Currently expanding expertise in distributed systems, data warehousing, and tools like Spark, Airflow, and dbt to support large-scale data operations.
 # Projects
 
 ---
@@ -17,7 +16,7 @@ Experience with PowerBI, SQL, Python and Python libraries such as Pandas, NumPy,
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 # [Apache Spark Polish Procurement Data Pipeline](https://github.com/zacharychristian/Apache-Spark-Polish-Procurement/tree/main).
-<img src = "images/Architecture_Diagram.jpg?raw=true"/>
+<img src = "images/system_architecture.png?raw=true"/>
 
 
 ---
@@ -30,8 +29,17 @@ Experience with PowerBI, SQL, Python and Python libraries such as Pandas, NumPy,
 - Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
 
 ### SQL:
-- Intermediate to advanced skills
-- Knowledge of MySQL and SQLServer
+Advanced Querying: Complex joins, window functions, CTEs, subqueries, pivot/unpivot, and aggregation techniques for in-depth data analysis and transformation.
+
+Performance Optimization: Proficient in query tuning, indexing strategies, execution plans, and optimizing large-scale data queries.
+
+Data Modeling: Experience designing normalized and denormalized schemas (star/snowflake), creating ER diagrams, and understanding relational data structures.
+
+ETL Development: Writing and maintaining SQL-based ETL/ELT processes for transforming and loading data into warehouses (e.g., Snowflake, BigQuery, Redshift).
+
+SQL in Analytics & Engineering: Used SQL for both analytical dashboards and backend pipeline logic—bridging data insights with engineering best practices.
+
+Version Control & CI/CD: Experience managing SQL scripts with Git and integrating into CI/CD pipelines for automated deployments.
 
 ### Python:
 - Multiple projects that required aggregating and preparing data from diverse datasets
