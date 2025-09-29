@@ -24,11 +24,6 @@ Detail-oriented Data Analyst transitioning into Data Engineering, with a strong 
 
 ## Skills:
 
-### Data Visualization
-- Communicating data stories
-- Visualization through graphs
-- Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
-
 ### SQL:
 - Advanced Querying: Complex joins, window functions, CTEs, subqueries, pivot/unpivot, and aggregation techniques for in-depth data analysis and transformation.
 
@@ -51,30 +46,32 @@ Detail-oriented Data Analyst transitioning into Data Engineering, with a strong 
 
 - Docker: Containerized Python applications and workflows for reproducibility and deployment across environments. Familiar with Dockerfiles, multi-stage builds, and container networking.
 
-- Kubernetes (K8s): Understanding of container orchestration, managing Docker containers using Kubernetes for scalable and resilient data workflows.
+- Kubernetes: Understanding of container orchestration, managing Docker containers using Kubernetes for scalable and resilient data workflows.
 
 - Data Pipelines & Workflow Automation: Built batch and streaming pipelines using Python with tools like Airflow, Spark, and custom schedulers.
 
 - Testing & Code Quality: Experience with unit testing (pytest), logging, and monitoring for data pipelines to ensure robustness and observability.
 
-Libraries & Tools:
+### Libraries & Tools:
 
 - Core Libraries: pandas, NumPy, SQLAlchemy, requests, datetime, os, pathlib
 
-- Data Engineering Tools: PySpark, Airflow, dbt, FastAPI (optional if you’ve used it), Prefect (if applicable)
+- Data Engineering Tools: PySpark, Airflow, dbt, 
 
 - DevOps Tools: Docker, Kubernetes, Git, CI/CD tools (GitHub Actions, GitLab CI, etc.)
+
+### Data Visualization
+- Communicating data stories
+- Visualization through graphs
+- Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
 
 
 
 ## Education
 ### Masters in Mathematics - 2021 - 2023
 - Focused on applied mathematics, statistics, and algorithmic problem solving.
-
 - Extensive experience coding in Python, R, and MATLAB for numerical analysis, data visualization, and statistical modeling.
-
 - Built custom simulations, optimization algorithms, and data pipelines as part of academic research and coursework.
-
 - Gained strong foundations in linear algebra, probability theory, and discrete math — core concepts behind data science and data engineering systems.
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
