@@ -1,50 +1,75 @@
 # Zack Christiansen
-# Math Masters Student
-## Specializing in Statistics and Machine Learning
+# Data Engineer
+## Masters Degree in Mathematics
 _Dedicated to Constant Improvement_
 
-Linkedin: www.linkedin.com/in/zack-christiansen-922705196
+### [View my LinkedIn Profile](https://www.linkedin.com/in/zack-christiansen-922705196/)
+
+### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Visualization to Data Structures to Machine Learning. 
+
+Detail-oriented Data Analyst transitioning into Data Engineering, with a strong foundation in data analysis, SQL, and Python, and hands-on experience building and optimizing data pipelines. Adept at transforming business requirements into scalable data solutions and leveraging analytical skills to ensure data integrity and usability. Experienced in working with relational databases, ETL processes, and cloud-based tools (e.g., AWS, GCP). Passionate about automating data workflows, improving data infrastructure, and enabling data-driven decision-making across teams. Currently expanding expertise in distributed systems, data warehousing, and tools like Spark, Airflow, and dbt to support large-scale data operations.
+# Projects
 
 
 ## Skills:
 
-### Machine Learning:
-- Experience with natural language processing, computer vision, high level data visualization, neural networks, reinforcement learning, general purpose machine learning, etc.
-- Linear regression, logistic regression, Lasso regression, Ridge regression, Elastic net, decision trees, random forest, KNN (K nearest neighbor), KMeans, PCA (Principal component analysis), neural networks, SVD ( Singular value decomposition),t-SNE (t distributed stochastic neighbor embedding), Naive Bayes, Regularization, t-tests
-- Various types of optimization such as gradient descent, exhaustive search, boosting, bagging, etc.
-- Visualization techniques
-- Utilizing pipelines for more generalizable and readable code
-- Manipulating probability density functions
-- Random sampling from probability density functions
+### SQL:
+- Advanced Querying: Complex joins, window functions, CTEs, subqueries, pivot/unpivot, and aggregation techniques for in-depth data analysis and transformation.
+
+- Performance Optimization: Proficient in query tuning, indexing strategies, execution plans, and optimizing large-scale data queries.
+
+- Data Modeling: Experience designing normalized and denormalized schemas (star/snowflake), creating ER diagrams, and understanding relational data structures.
+
+- ETL Development: Writing and maintaining SQL-based ETL/ELT processes for transforming and loading data into warehouses (e.g., Snowflake, BigQuery, Redshift).
+
+- SQL in Analytics & Engineering: Used SQL for both analytical dashboards and backend pipeline logic—bridging data insights with engineering best practices.
+
+- Version Control & CI/CD: Experience managing SQL scripts with Git and integrating into CI/CD pipelines for automated deployments.
 
 ### Python:
-- Experience with packages such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, etc.
-- Multiple Data Science projects completed using Python
-- Data Structures and Algorithms.
-- Familiarity with Pipelines
-- Multiple projects that required aggregating and preparing data from diverse datasets
+- Python for Data Engineering: Proficient in writing clean, modular, and scalable Python code for data extraction, transformation, and loading (ETL/ELT), automation scripts, and API integrations.
 
-### R:
-- Cleaning, analyzing, and visualizing data
-- Sampling from distributions
+- PySpark: Experience with distributed data processing using PySpark for large-scale data transformations, performance tuning, and working with DataFrames and RDDs in a production context.
 
-### SQL:
-- Knowledge of MySQL and SQLServer
-- Joins, Aggregate functions, Creating views, Converting data types, Temporary tables, etc.
-- DML(Data manipulation language), DQL(Data query language), DDL(Data definition language), TCL(Transaction control language), DCL(Data control language)
+- Apache Airflow: Designed and scheduled DAGs for orchestrating complex ETL pipelines; comfortable with task dependencies, retries, and custom operators.
 
-### Java: 
-- Experience with Data Strucutures and Algorithms
+- Docker: Containerized Python applications and workflows for reproducibility and deployment across environments. Familiar with Dockerfiles, multi-stage builds, and container networking.
 
-## Education:
+- Kubernetes: Understanding of container orchestration, managing Docker containers using Kubernetes for scalable and resilient data workflows.
 
-### Masters in Mathematics  2021 - 2023
-- Specializing in Statistics and Machine Learning
-- Supervised learning - Linear and Logistic Regressions, Decision Trees, Random Forest, and K Nearest Neighbor.
-- Unsupervised learning - KMeans
-- Statistics - Probability Density Functions, Common distributions such as: Standard Normal, Normal, Exponential, Binomial, Chi Square, Hypergeometric, Negative Binomial, Poisson, Gamma, Beta, and F distribution. 
-- Familiar with many parts of distributions such as compution of mean, variance, intervals, moment generating functions, maximum likelihood estimators, etc.
-- Experience with natural language processing, computer vision, high level data visualization, neural networks, reinforcement learning, general purpose machine learning, etc.
+- Data Pipelines & Workflow Automation: Built batch and streaming pipelines using Python with tools like Airflow, Spark, and custom schedulers.
+
+- Testing & Code Quality: Experience with unit testing (pytest), logging, and monitoring for data pipelines to ensure robustness and observability.
+
+### Libraries & Tools:
+
+- Core Libraries: pandas, NumPy, SQLAlchemy, requests, datetime, os, pathlib
+
+- Data Engineering Tools: PySpark, Airflow, dbt, 
+
+- DevOps Tools: Docker, Kubernetes, Git, CI/CD tools (GitHub Actions, GitLab CI, etc.)
+
+### Data Visualization
+- Communicating data stories
+- Visualization through graphs
+- Simplifying complex ideas into interpretable pieces and combining to construct a narrative.
+
+
+
+## Education
+### Masters in Mathematics - 2021 - 2023
+- Focused on applied mathematics, statistics, and algorithmic problem solving.
+- Extensive experience coding in Python, R, and MATLAB for numerical analysis, data visualization, and statistical modeling.
+- Built custom simulations, optimization algorithms, and data pipelines as part of academic research and coursework.
+- Gained strong foundations in linear algebra, probability theory, and discrete math — core concepts behind data science and data engineering systems.
+
+### Bachelors in Business and Economic Analytics  2017 - 2021
+- Minored in Mathematics
+- Econometrics
+- Object Oriented Programming
+- Data Driven Analytics
+- Data Structures and Algorithms
+- SQL 
 
 
 ### Bachelors in Business and Economic Analytics  2017 - 2021
