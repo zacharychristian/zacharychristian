@@ -1,5 +1,5 @@
 # Zack Christiansen
-# Data Engineer
+# Data Analyst
 ## Masters Degree in Mathematics
 _Dedicated to Constant Improvement_
 
