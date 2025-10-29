@@ -1,5 +1,5 @@
 # Zack Christiansen
-# Data Engineer
+# Data Analyst
 ## Masters Degree in Mathematics
 _Dedicated to Constant Improvement_
 
@@ -7,7 +7,7 @@ _Dedicated to Constant Improvement_
 
 ### Innovative and scientifically rigorous graduate with a diverse set of skills ranging from Data Visualization to Data Structures to Machine Learning. 
 
-Detail-oriented Data Analyst transitioning into Data Engineering, with a strong foundation in data analysis, SQL, and Python, and hands-on experience building and optimizing data pipelines. Adept at transforming business requirements into scalable data solutions and leveraging analytical skills to ensure data integrity and usability. Experienced in working with relational databases, ETL processes, and cloud-based tools (e.g., AWS, GCP). Passionate about automating data workflows, improving data infrastructure, and enabling data-driven decision-making across teams. Currently expanding expertise in distributed systems, data warehousing, and tools like Spark, Airflow, and dbt to support large-scale data operations.
+Detail-oriented Data Analyst, with a strong foundation in Python, SQL, and data analysis, and hands-on experience building and optimizing data pipelines. Adept at transforming business requirements into scalable data solutions and leveraging analytical skills to ensure data integrity and usability. Experienced in working with relational databases, ETL processes, and cloud-based tools (e.g., AWS, GCP). Passionate about automating data workflows, improving data infrastructure, and enabling data-driven decision-making across teams. Currently expanding expertise in distributed systems, data warehousing, and tools like Spark, Airflow, and dbt to support large-scale data operations.
 # Projects
 
 ---
