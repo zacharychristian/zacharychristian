@@ -14,7 +14,7 @@ Detail-oriented Data Analyst, with a strong foundation in Python, SQL, and data 
 # [Apache Spark Polish Procurement Data Pipeline (Python, PySpark)](https://github.com/zacharychristian/Polish-Procurement-Data-Processing).
 <img src = "images/system_diagram.png?raw=true"/>
 
-# [Dissimilarities of Movie Descriptions(Python, ML)](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
+# [Comparing Movies by Movie Descriptions(Python, ML)](https://github.com/zacharychristian/Dissimilarities-of-Movie-Descriptions/blob/main/Cosine%20Similarity%20and%20Clustering.ipynb)
 <img src="images/hierarchicalcluster.jpg?raw=true"/>
 
 
