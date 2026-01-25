@@ -11,7 +11,7 @@ Detail-oriented Data Analyst, with a strong foundation in Python, SQL, and data 
 # Projects
 
 ---
-# OpenGov Insights (Python)
+# OpenGov Insights (Python, Airflow)
 ### [View the Dashboard](https://opengov-insights-lq4dquz44s9ruz2szrgcbk.streamlit.app/).
 ### [View the GitHub Repo](https://github.com/zacharychristian/OpenGov-Insights).
 <img src = "images/1_rQ3d_dKG7V2JhX8SrUjs6g.png?raw=true"/>
